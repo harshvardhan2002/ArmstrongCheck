@@ -1,0 +1,7 @@
+C:\Users\Harshvardhan Gupta\source\repos\ArmstrongCheck\bin\Debug\ArmstrongCheck.exe.config
+C:\Users\Harshvardhan Gupta\source\repos\ArmstrongCheck\bin\Debug\ArmstrongCheck.exe
+C:\Users\Harshvardhan Gupta\source\repos\ArmstrongCheck\bin\Debug\ArmstrongCheck.pdb
+C:\Users\Harshvardhan Gupta\source\repos\ArmstrongCheck\obj\Debug\ArmstrongCheck.csproj.AssemblyReference.cache
+C:\Users\Harshvardhan Gupta\source\repos\ArmstrongCheck\obj\Debug\ArmstrongCheck.csproj.CoreCompileInputs.cache
+C:\Users\Harshvardhan Gupta\source\repos\ArmstrongCheck\obj\Debug\ArmstrongCheck.exe
+C:\Users\Harshvardhan Gupta\source\repos\ArmstrongCheck\obj\Debug\ArmstrongCheck.pdb
